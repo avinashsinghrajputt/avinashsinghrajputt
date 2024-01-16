@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, DBMS, OS, CN etc.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhinandan-sah/**
+- 📫 How to reach me **https://www.linkedin.com/in/avinashrajputt1/**
 
 
 <h3 align="left">Connect with me:</h3>
