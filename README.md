@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Singh</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsinghrajputt&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsinghrajputt" /> </p>
 
@@ -18,16 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhinandan_sah1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinandan_sah1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/avinashrajputt1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avinashrajputt1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20607249/avinash-singh-rathore" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20607249/avinash-singh-rathore" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/i_m_abhinandan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_m_abhinandan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/abhinandan_sah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhinandan_sah" height="30" width="40" /></a>
 <a href="https://leetcode.com/abhinandan_sah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhinandan_sah/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhinandan_sah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhinandan_sah" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhinandansah222" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhinandansah222" height="30" width="40" /></a>
-<a href="https://discord.gg/avi2699#0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avi2699#0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
