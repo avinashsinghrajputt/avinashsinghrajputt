@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/avinashrajputt1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avinashrajputt1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20607249/avinash-singh-rathore" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20607249/avinash-singh-rathore" height="30" width="40" /></a>
-<a href="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/avi_as?igsh=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
-<a href="https://leetcode.com/abhinandan_sah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhinandan_sah/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/avinash.singh.rajputt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/avinash.singh.rajputt/" height="30" width="40" /></a>
+<a href="https://leetcode.com/avinashrajputt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/avinashrajputt/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
