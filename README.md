@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsinghrajputt&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsinghrajputt" /> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/avinashrajput_1?label=Follow)](https://twitter.com/intent/follow?screen_name=avinashrajput_1)
 [![Linkedin: avinash](https://img.shields.io/badge/-avinash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinashrajputt1/)](https://www.linkedin.com/in/avinashrajputt1/)
 ![GitHub followers](https://img.shields.io/github/followers/avinashsinghrajputt?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
