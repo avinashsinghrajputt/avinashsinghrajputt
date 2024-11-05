@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash Kumar Singh</h1>
+<h2 align="center" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Avinash Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
 
