@@ -9,7 +9,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmol.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
-- 🔭 I’m currently working on **bulding project**
+- 🔭 I’m currently working on **building project**
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJs, MongoDB etc.**
 
